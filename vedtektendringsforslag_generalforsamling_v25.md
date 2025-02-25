@@ -3,7 +3,7 @@
 
 Gammel §1.1: Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST).
 
-Ny §1.1: Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST). Fra og med 01.08.2025 skal foreningens navn være Maskinlæring, kos og Informatikk (MA:KI). Navneendringen trer i kraft automatisk med virkning fra denne datoen uten behov for ytterligere behandling.
+Ny §1.1: Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST). Fra og med 01.08.2025 skal foreningens navn være MA:KI. Navneendringen trer i kraft automatisk med virkning fra denne datoen uten behov for ytterligere behandling.
 
 Gammel §1.2: Foreningens formål er å ivareta interessene til studentene ved studieprogrammene i Informatikk: språkteknologi (I:ST). Dette gjøres gjennom å styrke det faglige og sosiale miljøet blant studentene på programrommet til I:ST.
 
