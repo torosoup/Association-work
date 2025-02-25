@@ -10,7 +10,6 @@ Ny §1.2: Foreningens formål er å ivareta interessene til studentene ved studi
 Gammel §2.5: Alle studenter på I:ST har møterett på styremøter, men bare styremedlemmer har tale- og stemmerett. Styret kan innvilge talerett om ønskelig.
 
 Ny §2.5: Alle studenter på I:ST og Informatikk: maskinlæring og kunstig intelligens har møterett på styremøter, men bare styremedlemmer har tale- og stemmerett. Styret kanvilge talerett om ønskelig.
-§3 - Generalforsamling
 
 ## §3 - Generalforsamling
 
