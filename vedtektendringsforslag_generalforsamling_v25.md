@@ -1,10 +1,6 @@
 # Vedtektsendringer genfors V25
 ## §1 - Formålsparagraf
 
-Gammel §1.1: Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST).
-
-Ny §1.1: Foreningens navn er Linjeforeningen for Informatikk: Språkteknologi (LI:ST). Fra og med 01.08.2025 skal foreningens navn være MA:KI. Navneendringen trer i kraft automatisk med virkning fra denne datoen uten behov for ytterligere behandling.
-
 Gammel §1.2: Foreningens formål er å ivareta interessene til studentene ved studieprogrammene i Informatikk: språkteknologi (I:ST). Dette gjøres gjennom å styrke det faglige og sosiale miljøet blant studentene på programrommet til I:ST.
 
 Ny §1.2: Foreningens formål er å ivareta interessene til studentene ved studieprogrammene i Informatikk: maskinlæring og kunstig intelligens. Dette gjøres gjennom å styrke det faglige og sosiale miljøet blant studentene på programrommet til I:ST og Informatikk: maskinlæring og kunstig intelligens.
@@ -43,9 +39,3 @@ Gammel §5.1: Forslag til vedtektsendringer skal være styret i hende senest 7 d
 Ny §5.1: Forslag til vedtektsendringer skal være styret i hende senest 2 dager før generalforsamling.
 
 Fjerne: §5.3: Styret skal offentliggjøre forslagene til vedtektsendringer senest 2 dager før generalforsamlingen.
-
-## §8 - Mistillit
-
-Gammel §8.2: Enhver student i LI:ST kan stille mistillitsforslag.
-
-Ny §8.2: Enhver student i foreningen kan stille mistillitsforslag. 
